@@ -6,32 +6,37 @@
 
 ###
 
-<p align="left">👋 Hi world, I’m Taufan!<br>🎓 Student passionate about Web Development and Open Source<br><br>💻 Currently working with PHP, Laravel, Tailwind CSS, and Vue.js<br><br>📚 Always learning something new <br><br>🚀 Love building projects that help people and solve real-world problems<br><br>🛠️ Check out my repositories to see my latest work and experiments!<br><br>🤝 Open to collaboration and contributing to cool projects</p>
+<p align="left">👋 Hello world, I’m Taufan!<br>🎓 Student passionate about Web Development and Open Source<br><br>💻 Currently working with PHP, Laravel, Tailwind CSS, and Vue.js<br><br>📚 Always learning something new <br><br>🚀 Love building projects that help people and solve real-world problems<br><br>🛠️ Check out my repositories to see my latest work and experiments!<br><br>🤝 Open to collaboration and contributing to cool projects</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
-</div>
-<div align="left" style="margin-top: 20px;">
-    <a href="https://open.spotify.com/user/Taufan">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hctbconj3dl5ycjiieugqzaofm&count=1" alt="Spotify Recently Played" />
-    </a>
-</div>
 
-###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
 
 ###
 
@@ -45,10 +50,6 @@
 
 ###
 
-
-
-
-
 <h3 align="left">👾 Let's Play</h3>
 
 ###
@@ -61,14 +62,14 @@
 
 ###
 
-<h3 align="left">👨‍🚀 Activity</h3>
 
-###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=TaufanNurrizkie&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
-###
+
+
+
+
+
+
+
