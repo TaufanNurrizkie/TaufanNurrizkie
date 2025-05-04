@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Taufan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Taufan&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hctbconj3dl5ycjiieugqzaofm&unique={true|1|on|yes}"  />
   </a>
 </div>
 
@@ -63,8 +63,6 @@
 <h3 align="left">👾 Let's Play</h3>
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hctbconj3dl5ycjiieugqzaofm&unique={true|1|on|yes})
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TaufanNurrizkie/TaufanNurrizkie/output/pacman-contribution-graph-dark.svg">
