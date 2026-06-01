@@ -105,20 +105,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-##  Featured Projects
 
-<div align="center">
-  <a href="https://github.com/TaufanNurrizkie/awesome-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TaufanNurrizkie&repo=awesome-project-1&theme=react&border_radius=10" />
-  </a>
-  <a href="https://github.com/TaufanNurrizkie/awesome-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TaufanNurrizkie&repo=awesome-project-2&theme=react&border_radius=10" />
-  </a>
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ##  Connect with Me
 
