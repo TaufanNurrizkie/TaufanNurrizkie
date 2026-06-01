@@ -26,8 +26,8 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/>
 
--  Student passionate about **Web Development** and **Open Source**
--  Currently mastering `PHP`, `Laravel`, `Tailwind CSS`, and `Vue.js`
+-  Student passionate about **Web Development** 
+-  Currently mastering `PHP`, `Laravel`, `Tailwind CSS`, and `React.js`
 -  Always learning and experimenting with cutting-edge technologies
 -  Love building applications that solve real-world problems
 -  Open to collaborating on meaningful and creative projects
@@ -45,14 +45,12 @@
 
 <div align="center">
 
-###  Frontend
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap" />
-</div>
 
-###  Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,mysql" />
 </div>
 
 ###  Tools & Others
@@ -66,18 +64,22 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-##  GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=TaufanNurrizkie&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=TaufanNurrizkie&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufanNurrizkie&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<img
+  width="390"
+  src="https://streak-stats.demolab.com?user=TaufanNurrizkie&theme=react&border_radius=10"
+/>
+
+
+
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## Activity Graph
 
